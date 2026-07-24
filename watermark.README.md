@@ -1,5 +1,3 @@
-# website-watermark
-Adding a canvas watermark to images, such as for identification cards containing personal information, with the inclusion of text like "Used for XXX purposes only" to protect personal information. canvas图片水印，用于身份证等个人信息添加仅用于XXX等字样保护个人信息
 # watermark
 - [在线纯前端图片加水印](http://watermark.dxcweb.com/)
 - 最安全，最快速的纯前端图片加水印，拒绝上传保证个人信息安全。
@@ -18,3 +16,7 @@ npm start
 open http://localhost:8000/
 ```
 
+
+## 本项目 CDN 加速及安全防护由 Tencent EdgeOne 赞助
+
+[![Tencent EdgeOne](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)](https://edgeone.ai/zh?from=github)
